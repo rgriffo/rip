@@ -7,5 +7,4 @@ from .rcomposite import RComposite
 from .rlist import RList
 from .runion import RUnion
 from .rmessage import RMessage
-from .rbitfield import RBitField, RBitGroup
 from .ris_parser import RISParser
